@@ -1,0 +1,8 @@
+## Setting up the environment by pre-installing main packages
+
+pandas
+numpy
+keras
+scikit-learn
+matplotlib
+seaborn
