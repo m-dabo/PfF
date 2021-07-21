@@ -1,6 +1,6 @@
 # Financial Engineering Class
 
 ## Python for Finance
-#### by Yves Hilpisch
+#### from Y. H.
 
 Code scripts for the 2nd edition
